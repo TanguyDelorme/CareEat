@@ -1,0 +1,3 @@
+rootProject.name = 'careeat'
+
+include ':app'
