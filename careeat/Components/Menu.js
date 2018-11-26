@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View } from 'react-native';
-import { createBottomTabNavigator } from 'react-navigation';
+import { createBottomTabNavigator, createAppContainer } from 'react-navigation';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 class FindRestaurants extends React.Component {
@@ -66,4 +66,4 @@ const Menu = createBottomTabNavigator (
 
 );
 
-export default Menu
+export default createAppContainer(Menu)
