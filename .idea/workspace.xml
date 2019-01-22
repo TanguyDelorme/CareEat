@@ -7,21 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883f069a-b117-4017-9213-f3a7238c1832" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CareEat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CareEat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/careeat.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.watchmanconfig" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/.watchmanconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/careeat/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/assets/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/FindRestaurants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/MyCart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/ScanDocument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/ScanDocument" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat-tvOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat-tvOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat-tvOSTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat-tvOSTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/ios/careeatTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeatTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/map.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/careeat/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,27 +34,78 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/careeat/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="51">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SettingsButton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeaderApp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{this._onPressButton}</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/careeat/Components/Heafer.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/HeaderApp.js" />
+        <option value="$PROJECT_DIR$/careeat/route/screen.js" />
+        <option value="$PROJECT_DIR$/careeat/pages/About.js" />
+        <option value="$PROJECT_DIR$/careeat/pages/Home.js" />
+        <option value="$PROJECT_DIR$/careeat/screen.js" />
+        <option value="$PROJECT_DIR$/careeat/index.js" />
+        <option value="$PROJECT_DIR$/careeat/Routes.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/SettingsButton.js" />
+        <option value="$PROJECT_DIR$/careeat/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/careeat/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="963" />
-    <option name="height" value="735" />
+    <option name="x" value="1772" />
+    <option name="width" value="1521" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,19 +118,43 @@
               <item name="CareEat" type="462c0819:PsiDirectoryNode" />
               <item name="careeat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CareEat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CareEat" type="462c0819:PsiDirectoryNode" />
+              <item name="careeat" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CareEat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CareEat" type="462c0819:PsiDirectoryNode" />
+              <item name="careeat" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CareEat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CareEat" type="462c0819:PsiDirectoryNode" />
+              <item name="careeat" type="462c0819:PsiDirectoryNode" />
+              <item name="Icons" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/careeat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tanguy\Documents\Cours\Fise3\CareEat\careeat\pages" />
+      <recent name="C:\Users\Tanguy\Documents\Cours\Fise3\CareEat\careeat" />
+      <recent name="C:\Users\Tanguy\Documents\Cours\Fise3\CareEat\careeat\Icons" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,33 +225,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541683665088</updated>
+      <workItem from="1548062668466" duration="854000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="854000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="963" height="735" extended-state="0" />
+    <frame x="1772" y="0" width="1521" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17590691" side_tool="true" visible="true" weight="0.29683974" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30139372" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info id="Captures" order="2" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36212623" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8240931" visible="true" weight="0.29683974" />
+      <window_info anchor="bottom" id="Logcat" order="8" />
+      <window_info id="Captures" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19096509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -187,10 +266,81 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/careeat/node_modules/@react-navigation/core/dist/routers/KeyGenerator.js" />
+        <option value="$PROJECT_DIR$/careeat/node_modules/@react-navigation/core/dist/getChildRouter.js" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/careeat/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/screen.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/careeat/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -198,10 +348,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/Heafer.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/Components/FindRestaurants.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/Components/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Icons/baseline-alarm-24px.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/pages/Home.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/pages/About.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/pages/Initializing.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/pages/SignIn.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/pages/SignUp.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/pages/Screen2.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/screen.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/Routes.js" />
+    <entry file="file://$PROJECT_DIR$/careeat/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/careeat/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="51">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>

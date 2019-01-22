@@ -9,9 +9,12 @@
   "dependencies": {
     "react": "16.6.1",
     "react-native": "0.57.5",
+    "react-native-easy-router": "^2.7.4",
     "react-native-elements": "^0.19.1",
+    "react-native-navigation": "^2.7.1",
+    "react-native-router-flux": "^4.0.6",
     "react-native-vector-icons": "^6.1.0",
-    "react-navigation": "^3.0.0"
+    "react-navigation": "^3.0.0-rc.5"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
