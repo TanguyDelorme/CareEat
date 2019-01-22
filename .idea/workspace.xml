@@ -8,19 +8,10 @@
   <component name="ChangeListManager">
     <list default="true" id="883f069a-b117-4017-9213-f3a7238c1832" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/careeat/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/Components/FindRestaurants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/Components/MyCart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/Components/ScanDocument.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/ScanDocument" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat-tvOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat-tvOS/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat-tvOSTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat-tvOSTests/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/ios/careeat/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeat/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/ios/careeatTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/ios/careeatTests/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/careeat/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/HeaderApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/careeat/Components/HeaderApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/Menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/careeat/Components/SettingsButton.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,20 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/careeat/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="340">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsButton.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+      <file leaf-file-name="SettingsButtons.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButtons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="367">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeaderReturn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderReturn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,8 +52,8 @@
       <file leaf-file-name="HeaderApp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="153">
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -63,6 +63,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>{this._onPressButton}</find>
+      <find>sett</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,7 +73,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/careeat/Components/Heafer.js" />
-        <option value="$PROJECT_DIR$/careeat/Components/HeaderApp.js" />
         <option value="$PROJECT_DIR$/careeat/route/screen.js" />
         <option value="$PROJECT_DIR$/careeat/pages/About.js" />
         <option value="$PROJECT_DIR$/careeat/pages/Home.js" />
@@ -80,6 +80,10 @@
         <option value="$PROJECT_DIR$/careeat/index.js" />
         <option value="$PROJECT_DIR$/careeat/Routes.js" />
         <option value="$PROJECT_DIR$/careeat/Components/SettingsButton.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/HeaderReturn.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/Settings.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/HeaderApp.js" />
+        <option value="$PROJECT_DIR$/careeat/Components/SettingsButtons.js" />
         <option value="$PROJECT_DIR$/careeat/App.js" />
       </list>
     </option>
@@ -234,7 +238,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1772" y="0" width="1521" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -245,12 +248,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17590691" side_tool="true" visible="true" weight="0.29683974" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8240931" visible="true" weight="0.29683974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.8240931" visible="true" weight="0.29683974" />
       <window_info anchor="bottom" id="Logcat" order="8" />
       <window_info id="Captures" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19096509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19096509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -385,24 +388,38 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
+    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButton.js">
+    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="153">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/HeaderReturn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/careeat/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="340">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careeat/Components/SettingsButtons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
